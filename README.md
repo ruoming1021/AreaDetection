@@ -8,12 +8,14 @@
 ![image](https://github.com/ruoming1021/AreaDetection/assets/43459716/a234e427-5661-47c1-92e8-045167529de9)
 
 ## 本地執行
-[安裝 YOLOv8 環境](https://github.com/ultralytics/ultralytics)
 
-[下載ultralytics資料夾](https://drive.google.com/file/d/1NlDIarGYVTp4itnej2pBuvzVa9ZGe8TZ/view?usp=drive_link)
+由於我有修改過 YOLOv8 作者的程式碼，所以需要下載
+[ultralytics資料夾](https://drive.google.com/file/d/1NlDIarGYVTp4itnej2pBuvzVa9ZGe8TZ/view?usp=drive_link)
+，如果用作者的會執行不了
 
-Pip install the ultralytics package including all [requirements](https://github.com/ultralytics/ultralytics/blob/main/requirements.txt) in a [**Python>=3.7**](https://www.python.org/) environment with [**PyTorch>=1.7**](https://pytorch.org/get-started/locally/).
+安裝 ultralytics 資料夾裡的 requirements.txt 以及 ultralytics 套件，環境需要 [**Python>=3.7**](https://www.python.org/), [**PyTorch>=1.7**](https://pytorch.org/get-started/locally/).
 ```bash
+pip install -r requirements.txt
 pip install ultralytics
 ```
 執行程式

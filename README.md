@@ -4,7 +4,8 @@
 [Colab 連結](https://drive.google.com/file/d/1pwpwaMuDQ1lEdVII3iQcA-TpFtHMkBXT/view?usp=sharing)
 
 測試結果
-![image](https://github.com/ruoming1021/AreaDetection/assets/43459716/0522c369-74bf-4937-a0f1-bb0cdf841948)
+
+![image](https://github.com/ruoming1021/AreaDetection/assets/43459716/a234e427-5661-47c1-92e8-045167529de9)
 
 ## 本地執行
 [安裝 YOLOv8 環境](https://github.com/ultralytics/ultralytics)

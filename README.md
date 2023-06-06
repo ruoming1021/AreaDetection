@@ -3,7 +3,7 @@
 ## 線上執行
 [Colab 連結](https://drive.google.com/file/d/1pwpwaMuDQ1lEdVII3iQcA-TpFtHMkBXT/view?usp=sharing)
 
-測試結果
+測試結果 (無 UI 介面，僅能推論圖像,影片)
 
 ![image](https://github.com/ruoming1021/AreaDetection/assets/43459716/a234e427-5661-47c1-92e8-045167529de9)
 
@@ -22,3 +22,4 @@ pip install ultralytics
 ```bash
 python3 my_couse.py
 ```
+測試結果：https://drive.google.com/file/d/1z0CVy1gxKv9XCzoruHwE5n6Tg0FGB1er/view?usp=share_link

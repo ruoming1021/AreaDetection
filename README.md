@@ -9,6 +9,8 @@
 ## 本地執行
 [安裝 YOLOv8 環境](https://github.com/ultralytics/ultralytics)
 
+[下載ultralytics資料夾](https://drive.google.com/file/d/1NlDIarGYVTp4itnej2pBuvzVa9ZGe8TZ/view?usp=drive_link)
+
 Pip install the ultralytics package including all [requirements](https://github.com/ultralytics/ultralytics/blob/main/requirements.txt) in a [**Python>=3.7**](https://www.python.org/) environment with [**PyTorch>=1.7**](https://pytorch.org/get-started/locally/).
 ```bash
 pip install ultralytics

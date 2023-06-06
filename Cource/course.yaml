@@ -1,0 +1,11 @@
+train: /home/vip/Documents/PyQt_Demo/Cource/Course_dataset/train
+val: /home/vip/Documents/PyQt_Demo/Cource/Course_dataset/test
+test: /home/vip/Documents/PyQt_Demo/Cource/Course_dataset/test
+names:
+    0: person
+    1: car
+    2: bicycle
+    3: motorcycle rider
+    4: bicycle rider
+    5: motorcycle
+    6: bus
